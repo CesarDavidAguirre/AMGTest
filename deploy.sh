@@ -20,5 +20,5 @@ git commit -m 'deploy'
 
 # if you are deploying to https://<USERNAME>.github.io/<REPO>
 git push -f git@github.com:cesardavidaguirre/AMGTest.git main:gh-pages
-
+read p
 cd -
